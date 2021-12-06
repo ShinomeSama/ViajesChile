@@ -1,0 +1,24 @@
+.back-and-color {
+    background-color: black;
+    color: white;
+}
+
+.icon-1 {
+    background-color: cyan;
+    align-items: center;
+}
+
+.paddinH2 {
+    padding-top: 10%;
+}
+
+.footer-l {
+    text-decoration: none;
+    color: white;  
+}
+
+footer li {
+    list-style-type: none;
+    
+}
+
